@@ -1,7 +1,8 @@
 # BeOnTime
 
 **Tarea Módulo 2: Reconocimiento de elementos en el desarrollo de un programa informático**
-Entornos de Desarrollo · DAM · Álvaro González Medina
+Entornos de Desarrollo · DAM · Álvaro González Medina 
+Palabra del día: 29
 
 BeOnTime es una aplicación para llegar a tiempo a cualquier destino, tanto de rutina (clase, trabajo) como puntual (un cine, una cita). Calcula en tiempo real las mejores combinaciones de transporte público y permite que los usuarios compartan el estado de las estaciones mediante comentarios en tiempo real.
 
